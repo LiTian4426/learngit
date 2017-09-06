@@ -1,2 +1,3 @@
-Gitt is a version control system.
+Gitt is a very version control system.
+
 Git is free software.
